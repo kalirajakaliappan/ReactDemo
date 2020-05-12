@@ -75,6 +75,310 @@
         "dsSkuId": "615030",
         "fsa_cd": "0"
       }
+    },
+    {
+      "productInfo": {
+        "age": [
+          {
+            "age_message": "Child"
+          }
+        ],
+        "form": "Gummies",
+        "hairToolType": "",
+        "specialFeature": [
+          {
+            "special_feature_message": "Organic"
+          },
+          {
+            "special_feature_message": "No Artificial Flavors"
+          },
+          {
+            "special_feature_message": "Non-GMO"
+          }
+        ],
+        "storeInv": "outofstock",
+        "backorder": "true",
+        "stock": "-10",
+        "fulfillerType": "DC",
+        "webExclusive": "0",
+        "wic": "120301",
+        "skuInvAvailMap": {
+          "300615030": "1001"
+        },
+        "prodId": "400393901",
+        "skuId": "300615030",
+        "imageUrl": "//pics.drugstore.com/prodimg/615030/155.jpg",
+        "upc": "02791727169",
+        "productURL": "/store/c/l'il-critters-organic-complete-multivitamin-gummies-for-kids/ID=400393901-product",
+        "reviewCount": "359",
+        "productSize": "90 ea ",
+        "newItem": "No",
+        "autoReorder": "1",
+        "unitPrice": "0.19",
+        "unitPriceSize": "ea",
+        "loyaltyEligible": "0",
+        "reviewURL": "/images/adaptive/bvrating/rating-4_8.gif",
+        "inactiveIngredients": "Organic Tapioca Syrup,Organic Cane Sugar,Pectin,Organic Lemon Juice Concentrate,Organic Flavors,Sodium Citrate,ColorOrganic Maqui Berry Juice Concentrate,Organic Sunflower Oil,Organic Carnauba Wax",
+        "pln": "40000120301",
+        "imageUrl220": "//pics.drugstore.com/prodimg/615030/220.jpg",
+        "imageUrl450": "//pics.drugstore.com/prodimg/615030/450.jpg",
+        "productName": "Organic Complete Multivitamin Gummies for Kids",
+        "imageUrl50": "//pics.drugstore.com/prodimg/615030/50.jpg",
+        "productType": "Multivitamins",
+        "badge": "Top Seller",
+        "beautyCategoryName": "L'il Critters",
+        "channelAvailabilityPrdCard": {
+          "findAtStore": true,
+          "outOfStockOnline": true
+        },
+        "retailUnitQty": "",
+        "clearance": "No",
+        "quicklookURL": "/store/browse/overlays/quick_view_details.jsp?id=400393901",
+        "productDisplayName": "L'il Critters Organic Complete Multivitamin Gummies for Kids",
+        "productDisplayType": "1",
+        "reviewHoverMessage": "4.8 out of 5",
+        "autoReorderAvailable": true,
+        "availableSkus": {},
+        "priceInfo": {
+          "regularPrice": "$16.99",
+          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>16<sup>99</sup></span>",
+          "unitPrice": "$0.19",
+          "unitPriceSize": "ea",
+          "onSale": false
+        },
+        "averageRating": "4.8",
+        "subBrandName": "L'il Critters",
+        "dsSkuId": "615030",
+        "fsa_cd": "0"
+      }
+    },
+    {
+      "productInfo": {
+        "age": [
+          {
+            "age_message": "Child"
+          }
+        ],
+        "form": "Gummies",
+        "hairToolType": "",
+        "specialFeature": [
+          {
+            "special_feature_message": "Organic"
+          },
+          {
+            "special_feature_message": "No Artificial Flavors"
+          },
+          {
+            "special_feature_message": "Non-GMO"
+          }
+        ],
+        "storeInv": "outofstock",
+        "backorder": "true",
+        "stock": "-10",
+        "fulfillerType": "DC",
+        "webExclusive": "0",
+        "wic": "120301",
+        "skuInvAvailMap": {
+          "300615030": "1001"
+        },
+        "prodId": "400393901",
+        "skuId": "300615030",
+        "imageUrl": "//pics.drugstore.com/prodimg/615030/155.jpg",
+        "upc": "02791727169",
+        "productURL": "/store/c/l'il-critters-organic-complete-multivitamin-gummies-for-kids/ID=400393901-product",
+        "reviewCount": "359",
+        "productSize": "90 ea ",
+        "newItem": "No",
+        "autoReorder": "1",
+        "unitPrice": "0.19",
+        "unitPriceSize": "ea",
+        "loyaltyEligible": "0",
+        "reviewURL": "/images/adaptive/bvrating/rating-4_8.gif",
+        "inactiveIngredients": "Organic Tapioca Syrup,Organic Cane Sugar,Pectin,Organic Lemon Juice Concentrate,Organic Flavors,Sodium Citrate,ColorOrganic Maqui Berry Juice Concentrate,Organic Sunflower Oil,Organic Carnauba Wax",
+        "pln": "40000120301",
+        "imageUrl220": "//pics.drugstore.com/prodimg/615030/220.jpg",
+        "imageUrl450": "//pics.drugstore.com/prodimg/615030/450.jpg",
+        "productName": "Organic Complete Multivitamin Gummies for Kids",
+        "imageUrl50": "//pics.drugstore.com/prodimg/615030/50.jpg",
+        "productType": "Multivitamins",
+        "badge": "Top Seller",
+        "beautyCategoryName": "L'il Critters",
+        "channelAvailabilityPrdCard": {
+          "findAtStore": true,
+          "outOfStockOnline": true
+        },
+        "retailUnitQty": "",
+        "clearance": "No",
+        "quicklookURL": "/store/browse/overlays/quick_view_details.jsp?id=400393901",
+        "productDisplayName": "L'il Critters Organic Complete Multivitamin Gummies for Kids",
+        "productDisplayType": "1",
+        "reviewHoverMessage": "4.8 out of 5",
+        "autoReorderAvailable": true,
+        "availableSkus": {},
+        "priceInfo": {
+          "regularPrice": "$16.99",
+          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>16<sup>99</sup></span>",
+          "unitPrice": "$0.19",
+          "unitPriceSize": "ea",
+          "onSale": false
+        },
+        "averageRating": "4.8",
+        "subBrandName": "L'il Critters",
+        "dsSkuId": "615030",
+        "fsa_cd": "0"
+      }
+    },
+    {
+      "productInfo": {
+        "age": [
+          {
+            "age_message": "Child"
+          }
+        ],
+        "form": "Gummies",
+        "hairToolType": "",
+        "specialFeature": [
+          {
+            "special_feature_message": "Organic"
+          },
+          {
+            "special_feature_message": "No Artificial Flavors"
+          },
+          {
+            "special_feature_message": "Non-GMO"
+          }
+        ],
+        "storeInv": "outofstock",
+        "backorder": "true",
+        "stock": "-10",
+        "fulfillerType": "DC",
+        "webExclusive": "0",
+        "wic": "120301",
+        "skuInvAvailMap": {
+          "300615030": "1001"
+        },
+        "prodId": "400393901",
+        "skuId": "300615030",
+        "imageUrl": "//pics.drugstore.com/prodimg/615030/155.jpg",
+        "upc": "02791727169",
+        "productURL": "/store/c/l'il-critters-organic-complete-multivitamin-gummies-for-kids/ID=400393901-product",
+        "reviewCount": "359",
+        "productSize": "90 ea ",
+        "newItem": "No",
+        "autoReorder": "1",
+        "unitPrice": "0.19",
+        "unitPriceSize": "ea",
+        "loyaltyEligible": "0",
+        "reviewURL": "/images/adaptive/bvrating/rating-4_8.gif",
+        "inactiveIngredients": "Organic Tapioca Syrup,Organic Cane Sugar,Pectin,Organic Lemon Juice Concentrate,Organic Flavors,Sodium Citrate,ColorOrganic Maqui Berry Juice Concentrate,Organic Sunflower Oil,Organic Carnauba Wax",
+        "pln": "40000120301",
+        "imageUrl220": "//pics.drugstore.com/prodimg/615030/220.jpg",
+        "imageUrl450": "//pics.drugstore.com/prodimg/615030/450.jpg",
+        "productName": "Organic Complete Multivitamin Gummies for Kids",
+        "imageUrl50": "//pics.drugstore.com/prodimg/615030/50.jpg",
+        "productType": "Multivitamins",
+        "badge": "Top Seller",
+        "beautyCategoryName": "L'il Critters",
+        "channelAvailabilityPrdCard": {
+          "findAtStore": true,
+          "outOfStockOnline": true
+        },
+        "retailUnitQty": "",
+        "clearance": "No",
+        "quicklookURL": "/store/browse/overlays/quick_view_details.jsp?id=400393901",
+        "productDisplayName": "L'il Critters Organic Complete Multivitamin Gummies for Kids",
+        "productDisplayType": "1",
+        "reviewHoverMessage": "4.8 out of 5",
+        "autoReorderAvailable": true,
+        "availableSkus": {},
+        "priceInfo": {
+          "regularPrice": "$16.99",
+          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>16<sup>99</sup></span>",
+          "unitPrice": "$0.19",
+          "unitPriceSize": "ea",
+          "onSale": false
+        },
+        "averageRating": "4.8",
+        "subBrandName": "L'il Critters",
+        "dsSkuId": "615030",
+        "fsa_cd": "0"
+      }
+    },
+    {
+      "productInfo": {
+        "age": [
+          {
+            "age_message": "Child"
+          }
+        ],
+        "form": "Gummies",
+        "hairToolType": "",
+        "specialFeature": [
+          {
+            "special_feature_message": "Organic"
+          },
+          {
+            "special_feature_message": "No Artificial Flavors"
+          },
+          {
+            "special_feature_message": "Non-GMO"
+          }
+        ],
+        "storeInv": "outofstock",
+        "backorder": "true",
+        "stock": "-10",
+        "fulfillerType": "DC",
+        "webExclusive": "0",
+        "wic": "120301",
+        "skuInvAvailMap": {
+          "300615030": "1001"
+        },
+        "prodId": "400393901",
+        "skuId": "300615030",
+        "imageUrl": "//pics.drugstore.com/prodimg/615030/155.jpg",
+        "upc": "02791727169",
+        "productURL": "/store/c/l'il-critters-organic-complete-multivitamin-gummies-for-kids/ID=400393901-product",
+        "reviewCount": "359",
+        "productSize": "90 ea ",
+        "newItem": "No",
+        "autoReorder": "1",
+        "unitPrice": "0.19",
+        "unitPriceSize": "ea",
+        "loyaltyEligible": "0",
+        "reviewURL": "/images/adaptive/bvrating/rating-4_8.gif",
+        "inactiveIngredients": "Organic Tapioca Syrup,Organic Cane Sugar,Pectin,Organic Lemon Juice Concentrate,Organic Flavors,Sodium Citrate,ColorOrganic Maqui Berry Juice Concentrate,Organic Sunflower Oil,Organic Carnauba Wax",
+        "pln": "40000120301",
+        "imageUrl220": "//pics.drugstore.com/prodimg/615030/220.jpg",
+        "imageUrl450": "//pics.drugstore.com/prodimg/615030/450.jpg",
+        "productName": "Organic Complete Multivitamin Gummies for Kids",
+        "imageUrl50": "//pics.drugstore.com/prodimg/615030/50.jpg",
+        "productType": "Multivitamins",
+        "badge": "Top Seller",
+        "beautyCategoryName": "L'il Critters",
+        "channelAvailabilityPrdCard": {
+          "findAtStore": true,
+          "outOfStockOnline": true
+        },
+        "retailUnitQty": "",
+        "clearance": "No",
+        "quicklookURL": "/store/browse/overlays/quick_view_details.jsp?id=400393901",
+        "productDisplayName": "L'il Critters Organic Complete Multivitamin Gummies for Kids",
+        "productDisplayType": "1",
+        "reviewHoverMessage": "4.8 out of 5",
+        "autoReorderAvailable": true,
+        "availableSkus": {},
+        "priceInfo": {
+          "regularPrice": "$16.99",
+          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>16<sup>99</sup></span>",
+          "unitPrice": "$0.19",
+          "unitPriceSize": "ea",
+          "onSale": false
+        },
+        "averageRating": "4.8",
+        "subBrandName": "L'il Critters",
+        "dsSkuId": "615030",
+        "fsa_cd": "0"
+      }
     }
   ]
 }
