@@ -249,7 +249,7 @@
           }
         ],
         "storeInv": "outofstock",
-        "backorder": "false",
+        "backorder": "true",
         "stock": "10",
         "fulfillerType": "DC",
         "webExclusive": "0",
