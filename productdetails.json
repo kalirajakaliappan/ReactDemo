@@ -325,8 +325,8 @@
           }
         ],
         "storeInv": "outofstock",
-        "backorder": "true",
-        "stock": "-10",
+        "backorder": "false",
+        "stock": "0",
         "fulfillerType": "DC",
         "webExclusive": "0",
         "wic": "120301",
