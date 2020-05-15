@@ -141,7 +141,7 @@
         "availableSkus": {},
         "priceInfo": {
           "regularPrice": "$16.99",
-          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>16<sup>99</sup></span>",
+          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>26<sup>99</sup></span>",
           "unitPrice": "$0.19",
           "unitPriceSize": "ea",
           "onSale": false
@@ -217,7 +217,7 @@
         "availableSkus": {},
         "priceInfo": {
           "regularPrice": "$16.99",
-          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>16<sup>99</sup></span>",
+          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>36<sup>99</sup></span>",
           "unitPrice": "$0.19",
           "unitPriceSize": "ea",
           "onSale": false
@@ -293,7 +293,7 @@
         "availableSkus": {},
         "priceInfo": {
           "regularPrice": "$16.99",
-          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>16<sup>99</sup></span>",
+          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>46<sup>99</sup></span>",
           "unitPrice": "$0.19",
           "unitPriceSize": "ea",
           "onSale": false
@@ -369,7 +369,7 @@
         "availableSkus": {},
         "priceInfo": {
           "regularPrice": "$16.99",
-          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>16<sup>99</sup></span>",
+          "regularPriceHtml": "<span class=\"product__price\"><sup>$</sup>56<sup>99</sup></span>",
           "unitPrice": "$0.19",
           "unitPriceSize": "ea",
           "onSale": false
